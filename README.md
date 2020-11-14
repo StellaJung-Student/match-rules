@@ -16,6 +16,12 @@ _**I wrote a [detailed blog post](https://dev.to/naman03malhotra/declaring-your-
 
 [![npm](https://img.shields.io/npm/dm/match-rules)](https://www.npmjs.com/package/match-rules)
 
+![npm](https://img.shields.io/npm/dt/match-rules)
+
+![NPM](https://img.shields.io/npm/l/match-rules)
+
+[![npm](https://img.shields.io/npm/v/match-rules)](https://www.npmjs.com/package/match-rules)
+
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/match-rules?label=GZipped&style=for-the-badge)](https://bundlephobia.com/result?p=match-rules)
 
 Through Yarn
